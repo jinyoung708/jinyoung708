@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=ffb5b5&height=300&section=header&text=jinyoung708&fontSize=70&fontColor=333333)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffb5b5&height=250&section=header&text=jinyoung708&fontSize=70&fontColor=333333)
+<p>&nbsp;</p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
@@ -13,7 +14,10 @@
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp;
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=dbd4d1&height=200&section=footer)
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=dbd4d1&height=150&section=footer)
 
 
 <!--
