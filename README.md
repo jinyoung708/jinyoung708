@@ -17,7 +17,7 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=dbd4d1&height=150&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=dbd4d1&height=100&section=footer)
 
 
 <!--
